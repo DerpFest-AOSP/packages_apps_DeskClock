@@ -40,4 +40,6 @@
 
     <color name="accent_color">#FEF177</color>
     <color name="secondary_color">#212121</color>
+
+    <color name="blue_grey_100">#ffcfd8dc</color>
 </resources>
